@@ -1,0 +1,64 @@
+body{
+	background: #777;
+	Content: #ebebeb;
+
+}
+header{
+	text-align: center;
+    background: whitesmoke;
+    margin: 10;
+    padding: 10;
+	
+}
+ nav{
+ 	text-align: center;
+    background: whitesmoke;
+    margin: 10;
+    padding: 10;
+ }
+
+ aside{
+ 	
+ }
+
+ section{
+ 	position: fixed;
+    top: 120;
+    left: 150;
+    padding: 55;
+    margin: 55;
+    background-color: whitesmoke;
+    text-align: center
+ 	
+ }
+
+ article{
+
+ }
+
+ footer{
+        text-align: center;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    background: whitesmoke;
+    padding: 10 48%;
+ }
+
+ .text{
+ 	
+
+.clear{
+	}
+
+content-wrap
+{
+    min-height: 100%
+    width: 960;
+    margin: 0 auto 0 auto;
+    background: gray; 
+    border: 2px solid red;
+    border-top: none;
+    border-bottom: none;
+}
+
